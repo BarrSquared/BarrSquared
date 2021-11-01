@@ -1,7 +1,8 @@
 ### Hello 👋
 
-I'm Russell Barr from Kansas City, MO 
+I'm Russell,
 
+Experienced in data collection and analysis for emergency response, disaster management planning, occupational health analysis, and asset management. An accomplished program manager and team leader, awarded for strategic planning with consideration for dynamic organization needs. I have a keen interest in risk management, analytical problem-solving, and resource efficiency.
 Feel free to reach out to me with the below!
 
 | rbarrsquared@gmail.com | www.linkedin.com/in/russell-b-squared |
@@ -10,7 +11,7 @@ Feel free to reach out to me with the below!
 
 Skills and Technologies
 
-Advanced JavaScript, HTML5, CSS3, React, Passport, React Hooks, Redux, SAGAs, Moment, Node.js, Express, Postico, PostgreSQL, Axios, Heroku, npm, JQuery, Chrome DevTools, VS Code, Git
+Advanced JavaScript, HTML5, CSS3, React, Passport, React Hooks, Redux, SAGAs, Moment, Node.js, Express, Postico, PostgreSQL, Axios, Heroku, npm, JQuery, Chrome DevTools, VS Code, Git, etc.
 
 ##
 
