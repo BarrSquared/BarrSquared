@@ -19,7 +19,7 @@ Software Engineering Projects
 
 Supply Preacher | Full-Stack | Nov. 2021 | JavaScript, Node, React, Sagas, PostgreSQL, Passport, GitHub, etc.
 -	This is a three-week group project to build a custom web application for small faith based organizations
--	It ends Nov. 23rd and a demo that will be live streamed on my LinkedIn, with details leading up
+-	It ends Nov. 23rd and a demo will be live streamed on my LinkedIn, with details leading up
 -	It will include features using geographic data, REST API for user form inputs, stylized, admin abilities
 
 Solar Sleep App | Full-Stack | Oct. 2021 | JavaScript, Node, React, Sagas, PostgreSQL, Passport, etc.
@@ -27,8 +27,8 @@ Solar Sleep App | Full-Stack | Oct. 2021 | JavaScript, Node, React, Sagas, Postg
 -	RESTful API for tracking user input data related to sun lux exposure and sleep quality
 
 Movie Sagas App | Full-Stack | Oct. 2021 | JavaScript, Node, React, Redux, Sagas, PostgreSQL, etc.
--	An application to add movie poster and titles to a slide display the DOM
--	RESTful API for adding new movies to the database, using Sagas and reducers to send data
+-	An application to add movie posters and titles to a component displayed on the DOM
+-	RESTful API for adding new movies to the database
 
 
 
