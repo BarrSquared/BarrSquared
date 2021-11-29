@@ -19,8 +19,8 @@ Software Engineering Projects
 
 Supply Preacher | Full-Stack | Nov. 2021 | JavaScript, Node, React, Sagas, PostgreSQL, Passport, GitHub, etc.
 -	This is a three-week group project to build a custom web application for small faith based organizations
--	It ends Nov. 23rd and a demo will be live streamed on my LinkedIn, with details leading up
--	It will include features using geographic data, REST API for user form inputs, stylized, admin abilities
+-	Features include using geographic data, REST API for user form inputs, stylized, admin abilities
+-	An online marketplace to connect local faith leaders with congregations in need
 
 Solar Sleep App | Full-Stack | Oct. 2021 | JavaScript, Node, React, Sagas, PostgreSQL, Passport, etc.
 -	An environmental and biometric tracking application, intended to improve user sleep and quality of life
