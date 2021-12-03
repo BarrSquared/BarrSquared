@@ -2,7 +2,7 @@
 
 I'm Russell,
 
-Experienced in data collection, analysis, and planning implementation for emergency response, disaster management, occupational health exposure, and asset management. An accomplished program manager and team leader, awarded for strategic planning with consideration for dynamic organization needs. I have a keen interest in risk management, analytical problem-solving, and resource efficiency.
+Experienced in data collection and analysis for occupational health and risk management. Planning and implementation for emergency response, disaster management, and asset management. An accomplished program manager and team leader, awarded for strategic planning with consideration for dynamic organization needs. I have a keen interest in risk management, analytical problem-solving, and resource efficiency.
 Feel free to reach out to me with the links below!
 
 | rbarrsquared@gmail.com | www.linkedin.com/in/russell-b-squared |
